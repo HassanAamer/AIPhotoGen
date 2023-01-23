@@ -13,6 +13,7 @@ Front End:
 * Native JavaScript
 
 Back End:
+
 * NodeJS
 * ExpressJS
 * OpenAI REST API

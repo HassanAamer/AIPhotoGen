@@ -61,6 +61,7 @@ button {
   font-family: Kanit, serif;
   text-transform: uppercase;
   padding: 0.8em;
+  cursor: pointer;
 }
 
 button:hover {
