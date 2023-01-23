@@ -1,0 +1,68 @@
+body {
+  background: #0b0b0e;
+  color: white;
+  margin: 0;
+}
+
+h1 {
+  font-family: Oxygen Mono, serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+#result {
+  margin: 0 auto 2rem auto;
+  width: 50%;
+  max-width: 512px;
+}
+
+#placeholder {
+  aspect-ratio: 1/1;
+  font-size: 1.125rem;
+  background: #3a3a43;
+  font-family: Armata, serif;
+  padding: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+}
+
+img {
+  width: 100%;
+}
+
+form {
+  display: grid;
+  font-size: 1.2rem;
+  font-family: Armata, serif;
+  gap: 1rem;
+  margin: 0 5%;
+}
+
+label {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+textarea {
+  aspect-ratio: 4/1;
+  border: none;
+  border-radius: 0.3rem;
+  font-size: 1.125rem;
+}
+
+button {
+  border-radius: 0.2rem;
+  border: none;
+  background: #1b1b1e;
+  color: white;
+  font-size: 1rem;
+  font-family: Kanit, serif;
+  text-transform: uppercase;
+  padding: 0.8em;
+}
+
+button:hover {
+  background: #2b2b2e;
+}
