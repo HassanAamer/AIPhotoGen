@@ -1,0 +1,3 @@
+runtime: nodejs18
+env_variables:
+  OPENAI: "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"

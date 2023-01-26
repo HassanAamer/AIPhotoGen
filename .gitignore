@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Environment Variables
+# Project Data
 .env
-.gitignore
+.yaml

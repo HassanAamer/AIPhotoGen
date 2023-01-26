@@ -3,33 +3,34 @@
 
 <head>
   <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="/public/AI2.svg" />
+  <link rel="icon" type="image/svg+xml" href="AI2.svg" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AI Photo Generator</title>
 
-  <link rel="stylesheet" href="public/css/style.css" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oxygen+Mono" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Armata" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit" />
-  <script type="module" src="public/js/main.js"></script>
+  <script type="module" src="js/main.js"></script>
 </head>
 
 <body>
-  <main>
-    <h1>AI Photo Generator</h1>
+  <h1>AI Photo Generator</h1>
+  <div>
+    <main>
+      <div id="result">
+        <div id="placeholder">The generated image will display here</div>
+      </div>
 
+      <form>
+        <label for="prompt">Enter the desired prompt</label>
+        <textarea name="prompt" maxlength="160"></textarea>
 
-    <div id="result">
-      <div id="placeholder">The generated image will display here</div>
-    </div>
+        <button type="submit">Dream</button>
+      </form>
+    </main>
+  </div>
 
-    <form>
-      <label for="prompt">Enter the desired prompt</label>
-      <textarea name="prompt" maxlength="160"></textarea>
-
-      <button type="submit">Dream</button>
-    </form>
-  </main>
 
 </body>
 
