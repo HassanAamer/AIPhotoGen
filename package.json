@@ -10,6 +10,7 @@
     "start": "node server.js"
   },
   "devDependencies": {
+    "standard": "^17.0.0",
     "vite": "^4.0.0"
   },
   "description": "The basic website was made as a part of the Fireship.io Javascript course, which was then expanded upon with a more responsive and complex layout and additional features.",
