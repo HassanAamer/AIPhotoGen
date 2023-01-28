@@ -25,4 +25,4 @@ dist-ssr
 
 # Project Data
 .env
-.yaml
+*.yaml
