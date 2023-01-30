@@ -2,6 +2,8 @@
 
 The basic website was made as a part of the Fireship.io Javascript course, which was then expanded upon with a more responsive and complex layout and additional features. The website is currently a work in progress.
 
+The website can be accessed at https://app.hassanaamer.com
+
 ## Components
 
 ### __Tools Used__
@@ -17,6 +19,12 @@ Back End:
 * NodeJS
 * ExpressJS
 * OpenAI REST API
+
+Deployment:
+
+NGINX
+Linode VPS
+SSL certification using LetsEncrypt and Certbot
 
 ### __Front End__
 
