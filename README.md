@@ -22,9 +22,9 @@ Back End:
 
 Deployment:
 
-NGINX
-Linode VPS
-SSL certification using LetsEncrypt and Certbot
+* NGINX
+* Linode VPS
+* SSL certification using LetsEncrypt and Certbot
 
 ### __Front End__
 
@@ -34,4 +34,4 @@ The app takes a prompt from the user and communicates with the back end to recie
 
 ### __Back End__
 
-The Back end processes the GET and POST requests to the server by serving the required front end files, and communicating with the OpenAI API, respectively.
+The Back end processes the GET and POST requests to the server by serving the required front-end files, and communicating with the OpenAI API, respectively.
