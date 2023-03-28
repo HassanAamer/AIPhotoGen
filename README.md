@@ -1,6 +1,6 @@
 # AI Photo Generation Website
 
-The basic website was made as a part of the Fireship.io Javascript course, which was then expanded upon with a more responsive and complex layout and additional features. The website is currently a work in progress.
+The basic website was made as a part of the Fireship.io Javascript course, which was then expanded upon with a more responsive and complex layout and additional features.
 
 The website can be accessed at https://app.hassanaamer.com
 
